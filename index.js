@@ -148,7 +148,7 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
    │          ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ      
    └───────────────┈❦`
    //if you copy the code value,
-   //dont forget to put my name(Xeon) as credit
+   //dont forget to put my name re-editied by HELL-BOY
    //you fail to put, i sue you for sure!
 let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'ᴛʜᴀɴᴋѕ😌'}, type: 1}
@@ -193,7 +193,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    │       ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ
    └───────────────┈❦`
       //if you copy the code value,
-   //dont forget to put my name(Xeon) as credit
+   //dont forget to put my name Re-editied by HELL BOY
    //you fail to put, i sue you for sure!
 let buttons = [
 {buttonId: `wkwkwk`, buttonText: {displayText:'ɢᴇᴛ ʟᴏѕᴛ🤧'}, type: 1}
