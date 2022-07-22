@@ -40,8 +40,8 @@ global.reactmoji = "🌝"
 global.ownertag = ['9999999999999'] //ur owner tag
 global.ownernummenu = ['917561823024'] //ur owner number in menu and all
 global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.linkz1 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
+global.linkz2 = "https://chat.whatsapp.com/GOFfHo7QN855SbunBqNb65"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -83,7 +83,7 @@ global.mess = {
     group: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒈𝒓𝒐𝒖𝒑𝒔!',
     private: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒑𝒓𝒊𝒗𝒂𝒕𝒆 𝒄𝒉𝒂𝒕𝒔!',
     bot: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒃𝒐𝒕',
-    wait: '𝑰𝒏 𝒑𝒓𝒐𝒄𝒆𝒔𝒔...',
+    wait: 'ᴡᴀɪᴛ ᴀᴋᴋ﹗',
     linkm: '𝑾𝒉𝒆𝒓𝒆 𝒊𝒔 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌?',
     error: '𝑬𝒓𝒓𝒐𝒓!',
     ban: '𝒀𝒐𝒖 𝒉𝒂𝒗𝒆 𝒃𝒆𝒆𝒏 𝒃𝒂𝒏𝒏𝒆𝒅 𝒃𝒚 𝒕𝒉𝒆 𝒐𝒘𝒏𝒆𝒓, 𝒊𝒇 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒃𝒆 𝒖𝒏𝒃𝒂𝒏𝒏𝒆𝒅, 𝒄𝒉𝒂𝒕 𝒐𝒘𝒏𝒆𝒓.',
