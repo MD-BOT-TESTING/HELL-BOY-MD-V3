@@ -32,9 +32,9 @@ global.location = "India, Kerala, Idukki" //ur location
 //bot bombdy
 global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
+global.vidmenu = { url: 'https://i.imgur.com/3tv8LxQ.mp4' } //gif and video menu
 global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"
-global.author = "ᵃʜᴇʟʟ ʙᴏʏ 🌀"
+global.author = "ʜᴇʟʟ ʙᴏʏ 🌀"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
 global.ownertag = ['9999999999999'] //ur owner tag
