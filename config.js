@@ -24,7 +24,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['917561823024'] //ur owner number
-global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
+global.ownername = "ʜᴇʟʟ ʙᴏʏ"
 global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
 global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
 global.location = "India, Kerala, Idukki" //ur location
@@ -34,7 +34,7 @@ global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"
-global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
+global.author = "ᵃʜᴇʟʟ ʙᴏʏ 🌀"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
 global.ownertag = ['9999999999999'] //ur owner tag
@@ -72,11 +72,11 @@ global.ntilink = []
 //omther
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
-global.watermark = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ"
+global.watermark = "© ʜᴇʟʟ ʙᴏʏ ᴍᴅ"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: '𝑫𝒐𝒏𝒆 ✓',
+    success: 'ᴅᴏɴᴇ ✓',
     admin: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒂𝒅𝒎𝒊𝒏𝒔!',
     botAdmin: '𝑩𝒐𝒕 𝑴𝒖𝒔𝒕 𝑩𝒆 𝑨𝒅𝒎𝒊𝒏 𝑭𝒊𝒓𝒔𝒕!',
     owner: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒐𝒘𝒏𝒆𝒓',
