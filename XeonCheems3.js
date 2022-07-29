@@ -5670,17 +5670,6 @@ case 'vv': case 'antionce': {
   ]
   await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
   }
-  break
-case 'lovesticker':
-case 'lovestick' :{
-	            	            	if (isBan) return reply(mess.ban)
-	if (isBanChat) return reply(mess.banChat)
-var ano = await fetchJson('https://raw.githubusercontent.com/rashidsiregar28/data/main/bucin')
-var wifegerak = ano.split('\n')
-var wifegerakx = wifegerak[Math.floor(Math.random() * wifegerak.length)]
-encmedia = await XeonBotInc.sendImageAsSticker(from, wifegerakx, m, { packname: global.packname, author: global.author, })
-await fs.unlinkSync(encmedia)
-}
 break
 case 'gura':
 case 'gurastick':{
